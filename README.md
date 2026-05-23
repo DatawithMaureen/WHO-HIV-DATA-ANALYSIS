@@ -6,6 +6,18 @@ This project analyzes global HIV trends using WHO datasets to uncover insights i
 
 The dashboard was developed using Power BI, DAX, and Power Query to support healthcare decision-making through data-driven insights.
 
+## Dashboard Preview
+
+### Executive Overview Dashboard
+![Executive Dashboard](WHO%20HIV%20Dataset.png)
+
+### Treatment & Survival Insights
+![Treatment Dashboard](WHO%20HIV%20Dataset%20page%202.png)
+
+### Recommendations & Conclusions
+![Recommendation Dashboard](WHO%20HIV%20Dataset%20page%203.png)
+
+
 ## Key Insights
 - HIV infections declined globally over time.
 - African countries recorded the highest number of HIV cases and deaths.
